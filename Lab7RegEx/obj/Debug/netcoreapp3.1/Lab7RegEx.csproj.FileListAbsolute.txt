@@ -1,0 +1,13 @@
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.exe
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.deps.json
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.json
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.runtimeconfig.dev.json
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.dll
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\bin\Debug\netcoreapp3.1\Lab7RegEx.pdb
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csprojAssemblyReference.cache
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfoInputs.cache
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.AssemblyInfo.cs
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.csproj.CoreCompileInputs.cache
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.dll
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.pdb
+C:\Users\acran\source\repos\Labs\Lab7RegEx\Lab7RegEx\obj\Debug\netcoreapp3.1\Lab7RegEx.genruntimeconfig.cache
